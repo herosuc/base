@@ -1,7 +1,6 @@
-my-project/
-├── README.md
-├── src/
-│   └── index.js
-├── docs/
-├── examples/
-└── tests/
+# My Project
+
+A simple project for learning GitHub.
+git add README.md
+git commit -m "Add project README"
+git push
