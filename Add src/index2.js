@@ -3,3 +3,6 @@ node_modules/
 dist/
 coverage/
 *.log
+# Installation
+
+1. Clone the repository.
