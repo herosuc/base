@@ -4,3 +4,6 @@ git push
 git add .
 git commit -m "Add MIT license"
 git push
+## v0.1.01
+
+- Added comment to lisense
