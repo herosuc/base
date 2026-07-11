@@ -11,3 +11,6 @@ Update changelog for v0.2.0
 ## v0.2.2
 
 - Added src directory
+## v0.2.3
+
+- Added .gitignore
