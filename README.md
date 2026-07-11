@@ -1,2 +1,7 @@
-# base
-base crypto
+my-project/
+├── README.md
+├── src/
+│   └── index.js
+├── docs/
+├── examples/
+└── tests/
